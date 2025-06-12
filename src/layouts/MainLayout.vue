@@ -22,14 +22,6 @@
           class="modern-back-to-map-button"
           @click="redirect('/map')"
         />
-
-        <q-btn
-          flat
-          dense
-          label="Back to Blog"
-          class="modern-blog-button"
-          href="https://financialtravelbuddy.com"
-        />
       </q-toolbar>
     </q-header>
 
