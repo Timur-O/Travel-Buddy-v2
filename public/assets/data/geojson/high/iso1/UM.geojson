@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wake Island"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [166.61612, 19.30434],
+            [166.63612, 19.30434],
+            [166.63612, 19.29434],
+            [166.61612, 19.29434],
+            [166.61612, 19.30434]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midway Islands"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-177.37515, 28.21222],
+            [-177.35515, 28.21222],
+            [-177.35515, 28.22222],
+            [-177.37515, 28.22222],
+            [-177.37515, 28.21222]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmyra Atoll"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-162.07563, 5.88977],
+            [-162.05563, 5.88977],
+            [-162.05563, 5.90977],
+            [-162.07563, 5.90977],
+            [-162.07563, 5.88977]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jarvis Island"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-159.99321, -0.3719],
+            [-159.97321, -0.3719],
+            [-159.97321, -0.3519],
+            [-159.99321, -0.3519],
+            [-159.99321, -0.3719]
+          ]
+        ]
+      }
+    }
+  ]
+}

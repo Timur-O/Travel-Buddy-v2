@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "travel-buddy-v2"
+  },
+  "targets": {
+    "travel-buddy-v2": {
+      "hosting": {
+        "app": [
+          "travel-buddy-v2"
+        ],
+        "blog": [
+          "ftb-blog"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

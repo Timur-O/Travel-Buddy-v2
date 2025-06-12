@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Ossetia",
+        "description": "A partially recognized landlocked country in the South Caucasus.",
+        "population": 56500,
+        "capital": "Tskhinvali",
+        "area_km2": 3900,
+        "highest_point": {
+          "name": "Mount Khalatsa",
+          "elevation_m": 3938
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [43.8827, 42.0000],
+            [44.0000, 42.0000],
+            [44.0000, 42.1000],
+            [43.8827, 42.1000],
+            [43.8827, 42.0000]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tskhinvali",
+        "population": 33000,
+        "description": "Capital city of South Ossetia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9644, 42.0367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liakhvi River",
+        "description": "Major river in South Ossetia."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [43.8904, 42.0500],
+          [43.8965, 42.0450],
+          [43.9025, 42.0400],
+          [43.9085, 42.0350],
+          [43.9145, 42.0300]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ksani River",
+        "description": "Another significant river flowing through South Ossetia."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [43.8500, 42.0800],
+          [43.8550, 42.0750],
+          [43.8600, 42.0700],
+          [43.8650, 42.0650]
+        ]
+      }
+    }
+  ]
+}

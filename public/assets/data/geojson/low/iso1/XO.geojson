@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Ossetia",
+        "description": "A partially recognized state in the South Caucasus.",
+        "population": 56500,
+        "capital": "Tskhinvali"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [43.8827, 42.0000],
+            [44.0000, 42.0000],
+            [44.0000, 42.1000],
+            [43.8827, 42.1000],
+            [43.8827, 42.0000]
+          ]
+        ]
+      }
+    }
+  ]
+}
